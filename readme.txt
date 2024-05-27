@@ -66,3 +66,4 @@ Hvordan appen fungerer
 ---
 
 Denne README-filen gir en oversikt over hvordan du setter opp og bruker Flask Notes App. Hvis du har spørsmål eller møter på problemer, ikke nøl med å kontakte oss. Lykke til med notatappen din!
+
